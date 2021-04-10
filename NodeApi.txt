@@ -1,0 +1,35 @@
+Api Key - bc0cac9d833035e2d3ccd28940dd82f1
+
+api.openweathermap.org/data/2.5/weather?q=Patna&appid=bc0cac9d833035e2d3ccd28940dd82f1
+
+[
+  {
+    coord: { lon: 85.1167, lat: 25.6 },
+    weather: [ [Object] ],
+    base: 'stations',
+    main: {
+      temp: 301.15,
+      feels_like: 302.28,
+      temp_min: 301.15,
+      temp_max: 301.15,
+      pressure: 1008,
+      humidity: 57
+    },
+    visibility: 2200,
+    wind: { speed: 2.57, deg: 90 },
+    clouds: { all: 2 },
+    dt: 1617854002,
+    sys: {
+      type: 1,
+      id: 9129,
+      country: 'IN',
+      sunrise: 1617840217,
+      sunset: 1617885528
+    },
+    timezone: 19800,
+    id: 1260086,
+    name: 'Patna',
+    cod: 200
+  }
+]
+
